@@ -1,0 +1,56 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background:  #7f92e8 ;
+}
+.stopwatch {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0.4, 0.4, 0.4, 0.4);
+    height: 350px;
+    width: 500px;
+    margin: auto;
+    margin-top: 12%;
+}
+h2 
+{
+    color: #474199;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    text-align: center;
+    padding-top: 18px;
+}
+hr
+{
+    height: 3px;
+    background-color: #474199;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+h1
+{
+    color: #332c60;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 10%;
+}
+.buttons
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttons img
+{
+    width: 65px;
+    margin: 0px 20px;
+    cursor: pointer;
+    margin-top: 50px;
+}
