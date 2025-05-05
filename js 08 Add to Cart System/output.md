@@ -1,4 +1,4 @@
-**🛒 Add to Cart **
+**🛒 Add to Cart**
 
 This is a sleek and responsive "Add to Cart" functionality built using HTML, CSS, and  JavaScript – no frameworks, no dependencies! Perfect for small projects, e-commerce demos, or learning how carts work behind the scenes.
 
