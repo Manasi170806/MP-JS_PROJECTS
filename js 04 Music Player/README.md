@@ -3,11 +3,6 @@
 https://drive.google.com/file/d/1MyWa5PMgFun8VjBERpxX5HVEKbZP8Bvt/view?usp=sharing
 ```
 
-**Live Project**
-``` bash
-mp-js-projects.vercel.app
-```
-
 **🎵 Music Player – Clean, Modern & Interactive Web App**
 
 This project is a fully functional Music Player Website built using HTML, CSS, and JavaScript.
