@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1MyWa5PMgFun8VjBERpxX5HVEKbZP8Bvt/view?usp=shari
 
 **Live Project**
 ``` bash
-
+mp-js-projects.vercel.app
 ```
 
 **🎵 Music Player – Clean, Modern & Interactive Web App**
